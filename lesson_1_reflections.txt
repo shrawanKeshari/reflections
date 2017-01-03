@@ -1,0 +1,7 @@
+Shrawan's Version Control Lesson 1 Reflections
+
+1) How did viewing a diff between two versions of a file help you spot the bug?
+
+It was helpful because....
+We can easily find the changes made nd easily spot the probelm or bug in it.
+We can easily finf the way to delete the bug.
